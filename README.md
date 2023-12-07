@@ -21,7 +21,7 @@ Showcasing my diverse skill set and creative endeavors, my portfolio serves as a
 <h3 align='center'>Home Page 🏠</h3>
 
 <div align='center'>
-  <img src='images/readme.png'/>
+  <img src='images/heryruiz.png'/>
 </div>
 
 
