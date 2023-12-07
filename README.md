@@ -21,7 +21,7 @@ Showcasing my diverse skill set and creative endeavors, my portfolio serves as a
 <h3 align='center'>Home Page 🏠</h3>
 
 <div align='center'>
-  <img src='https://cdn.discordapp.com/attachments/1175025075448205375/1176326869080084550/portfolio-seven-rose-87.vercel.app_.png?ex=656e76c4&is=655c01c4&hm=e632a0efaae47f23802a895c94f3df906ebaa252426775d9546dcd45c5d4b053&'/>
+  <img src='images/home.png'/>
 </div>
 
 
