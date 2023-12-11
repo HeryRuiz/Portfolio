@@ -2,7 +2,7 @@
 
 <h1 align='center'>Portfolio</h1>
 <p>
-Showcasing my diverse skill set, my portfolio serves as a collection that goes through my coding journey. Through insightful projects, it provides a comprehensive overview of my capabilities, illustrating my commitment to innovation. Check it out to see not just my tech skills but also my passion for making things look awesome and work well.
+Showcasing my diverse skill set, my portfolio serves as a collection that traces my coding journey. Through insightful projects, it offers a comprehensive overview of my capabilities, illustrating my commitment to innovation. Check it out to see not just my tech skills but also my passion for making things look awesome and work well.
 </p>
 
 👉 Live Demo: <a href='https://heryruiz.com'>HeryRuiz.com</a>
