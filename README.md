@@ -20,7 +20,7 @@ Showcasing my diverse skill set, my portfolio serves as a collection that traces
 <h3 align='center'>Home Page 🏠</h3>
 
 <div align='center'>
-  <img src='images/heryruiz.png'/>
+  <img src='images/page.png'/>
 </div>
 
 
