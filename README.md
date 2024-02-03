@@ -20,7 +20,7 @@ Showcasing my diverse skill set with real world projects, my portfolio serves as
 <h3 align='center'>Home Page 🏠</h3>
 
 <div align='center'>
-  <img src='images/homeimg.png'/>
+  <img src='images/home.png'/>
 </div>
 
 
