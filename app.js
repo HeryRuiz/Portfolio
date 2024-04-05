@@ -22,7 +22,7 @@ function openMenu() {
   
       await emailjs.sendForm(
         "service_3iz2mo2",
-        "template_930z313",
+        "template_ce5fsep",
         event.target,
         "heryrdev@gmail.com"
       );
