@@ -7,18 +7,18 @@
     <link rel="stylesheet" href="style.css" />
     <script src="app.js"></script>
     <link rel="icon" type="image/x-icgion" href="images/logo.png" />
-  
+
     <script
       src="https://kit.fontawesome.com/fc0b80239e.js"
       crossorigin="anonymous"
     ></script>
     <script
-  type="text/javascript"
-  src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js">
-</script>
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"
+    ></script>
     <script type="text/javascript">
       (function () {
-        emailjs.init(publicKey: "7hO6BSH_-BQdvLpyZ",);
+        emailjs.init("7hO6BSH_-BQdvLpyZ",);
       })();
     </script>
   </head>
@@ -550,7 +550,10 @@
                 <div class="tooltiptext">Email Me</div>
               </div>
             </div>
-            <form class="contact__form" onsubmit="emailjs.sendForm('contact_service', 'contact_form', this)">
+            <form
+              class="contact__form"
+              onsubmit="sendEmail(event)"
+            >
               <div class="form__item">
                 <label class="form__item__label">Name</label>
                 <input
@@ -628,4 +631,3 @@
     </footer>
   </body>
 </html>
-
