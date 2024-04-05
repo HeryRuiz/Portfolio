@@ -550,7 +550,7 @@
                 <div class="tooltiptext">Email Me</div>
               </div>
             </div>
-            <form class="contact__form" onsubmit="sendEmail(event)">
+            <form class="contact__form" onsubmit="emailjs.sendForm('contact_service', 'contact_form', this)">
               <div class="form__item">
                 <label class="form__item__label">Name</label>
                 <input
