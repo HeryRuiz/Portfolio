@@ -21,7 +21,7 @@ function openMenu() {
       loading.classList.remove("hidden");
   
       await emailjs.sendForm(
-        "service_ajisz2i",
+        "service_3iz2mo2",
         "template_930z313",
         event.target,
         "heryrdev@gmail.com"
