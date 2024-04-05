@@ -24,7 +24,7 @@ function openMenu() {
         "service_qggg1uz",
         "template_930z313",
         event.target,
-        "vU7i4LvvHEjRAntPc"
+        "heryrdev@gmail.com"
       );
   
 
@@ -37,7 +37,7 @@ function openMenu() {
     } catch {
       loading.classList.add("hidden");
       alert(
-        "An error has occured. Please try again later or contact me at imanmusa@gmail.com"
+        "An error has occured. Please try again later or contact me at heryrdev@gmail.com"
       );
     }
   }
