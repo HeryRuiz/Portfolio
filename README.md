@@ -20,7 +20,7 @@ Showcase of my diverse skill set with real world projects, my portfolio serves a
 <h3 align='center'>Home Page 🏠</h3>
 
 <div align='center'>
-  <img src='./images/wdawd.png'/>
+  <img src='./images/heryruiz.com_.png'/>
 </div>
 
 
